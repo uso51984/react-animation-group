@@ -1,9 +1,9 @@
 {
-  "name": "react-animation-group",
+  "name": "react-animate-group",
   "version": "1.0.0",
   "description": "css-transition ui component for react",
   "keywords": [
-    "react-animation-group",
+    "react-animate-group",
     "animate",
     "animation"
   ],
