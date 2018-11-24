@@ -3,7 +3,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import ReactDOM from 'react-dom';
-import Animate from 'react-animation-group';
+import Animate from 'react-animate-group';
 
 import './assets/index.less';
 

@@ -1,6 +1,6 @@
 /* eslint no-console:0, react/no-multi-comp:0, react/jsx-no-bind:0 */
 
-import Animate from 'react-animation-group';
+import Animate from 'react-animate-group';
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import ReactDOM from 'react-dom';

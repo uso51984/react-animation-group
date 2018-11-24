@@ -1,5 +1,5 @@
 /* eslint no-console:0, react/no-multi-comp:0 */
-import Animate from 'react-animation-group';
+import Animate from 'react-animate-group';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
